@@ -21,6 +21,8 @@
     <img style="height: 40px; width: 40px;" src="https://user-images.githubusercontent.com/71359547/143244721-e07ea7c1-7716-49d0-b252-06093a29a6d0.png">
     
   </div>
+  ## Estudando:
+  <img style="height: 40px; width: 40px;" src="https://user-images.githubusercontent.com/71359547/143244487-e02bf195-c52b-45b6-b728-26230ae21337.png">
   
   ## Contatos:
   
