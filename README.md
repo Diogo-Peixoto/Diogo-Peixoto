@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-Peixoto&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
   
-  ### Skills:
+  ## Skills:
   <div>
     <img style="height: 40px; width: 40px" src="https://user-images.githubusercontent.com/71359547/143244184-cad8237f-6911-4e4e-9962-3f44cf680afb.png">
     <img style="height: 40px; width: 40px" src="https://user-images.githubusercontent.com/71359547/143244257-cfdfb183-11c7-4d3b-b61d-c21dab8e867b.png">
@@ -21,6 +21,12 @@
     <img style="height: 40px; width: 40px;" src="https://user-images.githubusercontent.com/71359547/143244721-e07ea7c1-7716-49d0-b252-06093a29a6d0.png">
     
   </div>
+  
+  ## Contatos:
+  
+<div>
+    <a href="mailto:diogosoarespeixoto41@gmail.com"><img src"https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white></a>
+</div>
   
 
 
