@@ -11,7 +11,8 @@
   
   ### Skills:
   <div>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="(https://user-images.githubusercontent.com/71359547/143243856-aeb58ab1-d8c3-445c-9a06-1588c6699296.png)
+">
   </div>
   
 
