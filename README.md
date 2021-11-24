@@ -1,7 +1,7 @@
 ### Olá👋
 <p>Sou um desenvolvedor júnior à procura da primeira oportunidades , buscando transformar sonhos em realidade através da programação.</p>
 
--📚 Estudando ReactJs
+.📚 Estudando ReactJs
 
 <div>
   <a href="https://beacons.ai/Diogo-Peixoto">
