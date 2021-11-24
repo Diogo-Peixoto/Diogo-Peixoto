@@ -22,7 +22,9 @@
     
   </div>
   ## Estudando:
-  <img style="height: 40px; width: 40px;" src="https://user-images.githubusercontent.com/71359547/143244487-e02bf195-c52b-45b6-b728-26230ae21337.png">
+  <div>
+    <img style="height: 40px; width: 40px;" src="https://user-images.githubusercontent.com/71359547/143244487-e02bf195-c52b-45b6-b728-26230ae21337.png">
+  </div>
   
   ## Contatos:
   
