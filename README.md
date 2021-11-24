@@ -11,8 +11,7 @@
   
   ### Skills:
   <div>
-    <img src="(https://user-images.githubusercontent.com/71359547/143243856-aeb58ab1-d8c3-445c-9a06-1588c6699296.png)
-">
+    <img src="https://user-images.githubusercontent.com/71359547/143243964-ea3beed4-b9e8-41d1-b248-262728924364.png">
   </div>
   
 
