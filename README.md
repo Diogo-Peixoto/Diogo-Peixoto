@@ -1,5 +1,5 @@
 ### Olá👋
-<p>Sou um desenvolvedor júnior à procura da primeira oportunidades , buscando transformar sonhos em realidade através da programação.</p>
+<p>Sou um desenvolvedor júnior à procura da primeira oportunidade , buscando transformar sonhos em realidade através da programação.</p>
 
 
 <div style="display:inline">
