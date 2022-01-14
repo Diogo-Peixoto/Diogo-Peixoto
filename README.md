@@ -25,6 +25,7 @@
   
   <div>
     <img style="height: 40px; width: 40px;" src="https://user-images.githubusercontent.com/71359547/143244487-e02bf195-c52b-45b6-b728-26230ae21337.png">
+    <img style="height: 40px; width: 40px;" src="https://user-images.githubusercontent.com/71359547/149498332-633c8967-ea84-49de-953f-9f1176b1a283.png">
   </div>
   
   ## Contatos:
