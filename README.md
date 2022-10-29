@@ -8,32 +8,21 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-Peixoto&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
   
-  ## Skills:
+  ## Skills 🚀 
   <div>
-    <img style="height: 40px; width: 40px" src="https://user-images.githubusercontent.com/71359547/143244184-cad8237f-6911-4e4e-9962-3f44cf680afb.png">
-    <img style="height: 40px; width: 40px" src="https://user-images.githubusercontent.com/71359547/143244257-cfdfb183-11c7-4d3b-b61d-c21dab8e867b.png">
-    <img style="height: 40px; width: 40px;" src="https://user-images.githubusercontent.com/71359547/143244308-922ff602-8189-4439-bfeb-35e748d7e02e.png">
-    <img style="height: 40px; width: 40px;" src="https://user-images.githubusercontent.com/71359547/143244487-e02bf195-c52b-45b6-b728-26230ae21337.png">
-    <img style="height: 40px; width: 40px;" src="https://user-images.githubusercontent.com/71359547/143244521-8612335e-3ec8-445e-9f58-6d537d06d498.png">
-    <img style="height: 40px; width: 40px;" src="https://user-images.githubusercontent.com/71359547/143244563-9398441f-5028-4787-bd1d-3346d66358fa.png">
-    
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
   </div>
   
-  ## Estudando:
+
   
-  <div>
-    <img style="height: 40px; width: 40px" src="https://user-images.githubusercontent.com/71359547/143244184-cad8237f-6911-4e4e-9962-3f44cf680afb.png">
-    <img style="height: 40px; width: 40px" src="https://user-images.githubusercontent.com/71359547/143244257-cfdfb183-11c7-4d3b-b61d-c21dab8e867b.png">
-    <img style="height: 40px; width: 40px;" src="https://user-images.githubusercontent.com/71359547/143244308-922ff602-8189-4439-bfeb-35e748d7e02e.png">
-  </div>
-  
-  ## Contatos:
+  ## Contatos ☎
   
 <div>
   <a href="mailto:diogosoarespeixoto41@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/diogo-soares-peixoto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  
-  ![Snake animation](https://github.com/Diogo-Peixoto/Diogo-Peixoto/blob/output/github-contribution-grid-snake.svg)
-
+  <a href="https://www.linkedin.com/in/diogo-soares-peixoto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">   </a>
 </div>
   
