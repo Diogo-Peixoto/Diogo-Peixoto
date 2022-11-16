@@ -1,5 +1,7 @@
 # Olá👋
 <p>Sou um desenvolvedor júnior à procura da primeira oportunidade , buscando transformar sonhos em realidade através da programação.</p>
+<p>No momento estudo na Kenzie Academy Brasil, curso Full Stack  com  carga horária de 2000h.</p>
+
 
 
 <div style="display:inline">
