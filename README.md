@@ -33,7 +33,7 @@
      <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
   </div>
   
-  ### Estudando
+  ### Estudando 📚
   
    <div>
       <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
