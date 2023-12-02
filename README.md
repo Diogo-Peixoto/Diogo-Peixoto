@@ -1,6 +1,6 @@
 # Olá👋
-<p>Sou um desenvolvedor júnior à procura da primeira oportunidade , buscando transformar sonhos em realidade através da programação.</p>
-<p>No momento estudo na Kenzie Academy Brasil, curso Full Stack  com  carga horária de 2000h.</p>
+<p>Sou um desenvolvedor especializado em front-end que estuda há mais de 2 anos,</p>
+<p>com 10 meses de experiência profissional utilizando JavaScript, TypeScript e React.</p>
 
 
 
