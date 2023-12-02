@@ -1,6 +1,5 @@
 # Olá👋
-<p>Sou um desenvolvedor especializado em front-end que estuda há mais de 2 anos,</p>
-<p>com 10 meses de experiência profissional utilizando JavaScript, TypeScript e React.</p>
+<p>Sou um desenvolvedor especializado em front-end que estuda há mais de 2 anos, com 10 meses de experiência profissional utilizando JavaScript, TypeScript e React.</p>
 
 
 
