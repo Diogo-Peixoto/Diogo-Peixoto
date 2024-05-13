@@ -1,5 +1,5 @@
 # Olá👋
-<p>Sou um desenvolvedor especializado em front-end que estuda há mais de 2 anos, com 10 meses de experiência profissional utilizando JavaScript, TypeScript e React.</p>
+<p>Sou um desenvolvedor especializado em front-end com conhecimentos em back-end. Tenho experiência com React, Next, TypeScript e JavaScript, mas não me limito apenas a isso. Conheço os fundamentos do front-end e sou focado em performance, possibilitando um maior desempenho e menor consumo de dados.</p>
 
 
 
@@ -11,31 +11,27 @@
   # Skills 🚀 
   
    <div>
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
+    <img src="https://skillicons.dev/icons?i=js,ts,jest" /> 
+
   </div>
   
-  ###  Front-end 🛠
+  ###  Front-end
   <div>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,styledcomponents" />
+
   </div>
   
-  ### Back-end (Noções Básicas) 🛠
+  ### Back-end
   
    <div>
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-     <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,python" />
   </div>
   
-  ### Estudando 📚
+  ### Estudando
   
    <div>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://skillicons.dev/icons?i=nextjs,aws,jest" />
+
   </div>
   
   <br>
