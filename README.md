@@ -30,7 +30,7 @@
   ### Estudando
   
    <div>
-      <img src="https://skillicons.dev/icons?i=nextjs,aws,jest" />
+      <img src="https://skillicons.dev/icons?i=nextjs,aws,jest,c#" />
 
   </div>
   
